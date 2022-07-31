@@ -2,6 +2,6 @@
 
 
 int main(){
-printf("kim");
+printf("kim montana");
 return 0;
 }
